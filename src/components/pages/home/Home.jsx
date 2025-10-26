@@ -5,7 +5,7 @@ export default function Home() {
       className="h-screen flex flex-col justify-center items-center bg-gradient-to-b from-blue-50 to-white text-center px-4"
     >
       <h2 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
-        Hi, I’m <span className="text-blue-600">Robert Jake Matao</span>
+        Hi, I’m <span className="text-blue-600">Jaynee Jane Velasco</span>
       </h2>
       <p className="text-lg text-gray-600 max-w-xl">
         A passionate web developer focused on building modern, responsive
